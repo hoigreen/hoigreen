@@ -1,4 +1,4 @@
-## 👁️ Profile viewer:
+## 👁️ Profile views:
 [![](https://visitcount.itsvg.in/api?id=hoigreen&icon=1&color=3)](https://visitcount.itsvg.in)
 ---
 # 💫 About Me:
