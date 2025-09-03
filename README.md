@@ -1,30 +1,56 @@
-## 👁️ Profile views:
-[![](https://visitcount.itsvg.in/api?id=hoigreen&icon=1&color=3)](https://visitcount.itsvg.in)
+
+
+# 👋 About Me
+
+Hi, I’m **Truong Quoc Hoi (hoigreen 🍏)**
+🚀 Frontend Engineer | Fullstack Developer | Open-Source Enthusiast
+
+* 📍 Based in Ho Chi Minh City, Vietnam
+* 🎓 Master’s student in Information Technology at UIT, graduated BSc from University of Transport HCMC (GPA 3.53/4.0, multiple scholarships)
+* 💼 Professional experience in **React, Next.js, TypeScript, Node.js, and AWS**, building scalable, user-centric applications
+* 🔭 Currently working as **Frontend Engineer @ Codelight LLC**, focusing on performance optimization, API integration, and reusable UI systems
+* 🌱 Passionate about creating developer tools, productivity apps, and AI-powered platforms
+
 ---
-# 💫 About Me:
-Hi everyone, my name is TRUONG QUOC HOI (hoigreen - 🍏)<br><br>👋 I'm a developer, and open-source contributor!<br>💀 I'm living in Ho Chi Minh City, Vietnam.<br>🎓 I'm a 4th year student at Ho Chi Minh City University of Transport<br>📚 I'm majoring in Information Technology.<br>🏢 I'm currently working as Full-stack Developer.<br>🔭 I’m currently working on personal projects!
 
+# 🛠 Tech Stack
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fb.com/hoigreen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hoigreen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hoigreen) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hoigreen) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hoigreen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hoigreen) 
+**Frontend:** ReactJS (Vite), Next.js, TailwindCSS, Shadcn/ui, TanStack Query, Zustand, Redux Toolkit, GraphQL (Apollo), SCSS \
+**Backend:** Node.js, NestJS, Express.js, PostgreSQL, MongoDB, PostGIS \
+**DevOps & Infra:** AWS EC2, Docker, Nginx, Vercel, Netlify, CI/CD (GitHub Actions) \
+**Other Skills:** Chrome Extensions, Monorepos, Component Libraries, SSR/ISR, SEO
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Less](https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hoigreen&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hoigreen&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoigreen&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hoigreen&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+# 📌 Key Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+* **[TryClarence](https://www.tryclarence.com)** – AI productivity app for insurance brokers
+  ⏱️ Saved brokers 3h/day & reduced quote-to-bind time by 50%
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hoigreen&limit=5&theme=flat&combine_all_yearly_contributions=true)
+* **[Testopia.io](https://www.testopia.io)** – AI-driven test prep platform
+  🎯 Boosted SAT scores by up to 330 points through personalized learning paths
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+* **[Scalar](https://scalar.org)** – Bitcoin-native infrastructure
+  🖥️ Built interactive UI for homepage & management platform
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* **[SoulDev](https://souldev.vercel.app)** – Developer-focused social network
+  💬 Implemented messaging, collaboration, and deployed on AWS with Docker
+
+* **[HeyDevs](https://dev.heydevs.io)** – Passive job-seeking platform for APAC developers
+  🌐 Enabled 100K+ candidates to connect with opportunities; 75% got offers in first month
+
+---
+
+# 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/hoigreen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel\&logoColor=white)](https://hoigreen.vercel.app)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@hoigreen)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=hoigreen\&theme=city_light\&hide_border=false\&include_all_commits=true\&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hoigreen\&theme=city_light\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoigreen\&theme=city_light\&hide_border=false\&layout=compact)
